@@ -1,5 +1,3 @@
-# bhatvinayak.github.io
-
 # Hi there 👋, I'm <a href="https://bhatvinayak.github.io/" target="_blank">Vinayak</a>!
 
 
