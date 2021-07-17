@@ -4,7 +4,7 @@
 
 
 <a href="https://bhatvinayak.github.io/" target="_blank"><img align="left" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://www.linkedin.com/in/bgvinayak target="_blank"><img align="left" alt="B G Vinayak | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/bgvinayak target="_blank"><img align="left" alt="B G Vinayak | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://www.instagram.com/b_g_vinayak/" target="_blank"><img align="left" alt="B G Vinayak | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <br />
 <br />
